@@ -160,7 +160,7 @@ body {
 
 .user-actions {
   display: flex;
-  gap: 3.5vh;
+  gap: 20px;
 }
 
 button.user-button {
